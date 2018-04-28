@@ -25,5 +25,5 @@ def test():
 
 if __name__ == '__main__':
     #test()
-    #manager.run()
-    app.run(debug=True)
+    manager.run()
+    #app.run(debug=True)
